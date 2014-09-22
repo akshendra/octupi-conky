@@ -1,0 +1,15 @@
+
+# dimenstions
+WIDTH = 1366;
+HEIGHT = 748;
+
+# network
+NETWORK = eth0;
+
+# cpu
+NO_OF_CORES = 2;
+
+# color scheme the values are DARK or WHITE 
+COLOR = DARK;
+
+
